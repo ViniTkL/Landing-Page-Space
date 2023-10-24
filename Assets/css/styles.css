@@ -407,7 +407,7 @@ body .full-width{
     width: 00%;
     height: 0.2rem;
     position: absolute;
-    left: 25%;
+    left: 20%;
     top: 2.5rem;
     transition: all 300ms ease-in-out;
   }
